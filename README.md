@@ -1,5 +1,7 @@
 # 🚀 Bolsa de empleo en PHP
 PROYECTO BASE : https://github.com/dmarquezsv/Sistema-de-bolsa-de-empleo/
+
+
 Mi sistema de Bolsa de Empleo es una herramienta completa de gestión de empleo con numerosas funcionalidades para candidatos y empresas. Los candidatos pueden crear un perfil detallado que incluye su experiencia laboral, formación académica, habilidades, referencias laborales y curriculum vitae, además de descargar su perfil en formato PDF y enviarlo a su correo electrónico. También pueden acceder a un panel administrativo para ver las ofertas de trabajo a las que han aplicado, visualizar información sobre las empresas que ofrecen los trabajos y postularse a las ofertas de trabajo que cumplan con sus requisitos. Una característica destacada del panel administrativo de candidatos es la posibilidad de comunicarse con los reclutadores a través del chat, lo que les permite mantenerse al tanto del proceso de selección y recibir actualizaciones sobre las oportunidades laborales disponibles.
 <br><br>
 Para las empresas, se ofrece un periodo de prueba de 15 días para crear un perfil en la plataforma. Después de eso, la empresa debe solicitar el servicio y realizar la petición a través de la plataforma. Una vez que se ha creado el perfil, el sistema permite la visualización de candidatos y la publicación de ofertas de trabajo solo en el país en el que la empresa se encuentra registrada. Si la empresa desea visualizar candidatos o publicar ofertas de trabajo en otros países, deberá realizar una petición a través de la plataforma para que se habilite esa opción.
