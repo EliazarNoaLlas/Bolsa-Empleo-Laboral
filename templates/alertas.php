@@ -37,9 +37,5 @@
          echo "<script>swal({title:'Advertenicia',text:'".$_SESSION['ms']."',type:'error'  });</script>";
       $_SESSION['alertas'] = 'Funciona';
     }
-
-
-
-
 }
  ?>
